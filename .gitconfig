@@ -1,0 +1,5 @@
+[user]
+	name = TheMindset
+	email = mulezig2014@outlook.fr 
+[core]
+	excludesfile = /home/gui/.gitignore_global
